@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#E6EDEC"
+              android:gravity="center_horizontal">
+  <TextView
+    android:text="Parts Check Out"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="30dp"
+    android:textColor="#4990E2"
+    android:id="@+id/textView1"
+    android:layout_marginTop="10dp"
+    android:gravity="center" />
+  <Button
+    android:text="Quick Checkout"
+    android:textAllCaps="false"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:id="@+id/buttonQuickCheckout"
+    android:layout_marginTop="50dp"
+    android:background="#497FE2"
+    android:elevation="10dp"
+    android:textSize="30dp" />
+  <TextView
+    android:text="-or-"
+    android:textAlignment="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/textView2"
+    android:gravity="center"
+    android:textColor="#9EA2A3"
+    android:layout_marginTop="15dp"
+    android:layout_marginBottom="15dp"
+    android:textSize="20dp"/>
+  <Button
+    android:text="Quantitied Checkout"
+    android:layout_width="200dp"
+    android:textAllCaps="false"
+    android:layout_height="wrap_content"
+    android:id="@+id/buttonQtyCheckout"
+    android:background="#497FE2"
+    android:elevation="10dp"
+    android:textSize="30dp" />
+  <Button
+    android:text="BACK TO MAIN"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/buttonBack"
+    android:background="#E6EDEC"
+    android:textColor="#497FE2"
+    android:layout_marginTop="50dp" />
+</LinearLayout>

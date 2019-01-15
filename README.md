@@ -1,1 +1,2 @@
-# XamarinScanner
+# Partsly
+Hackathon project

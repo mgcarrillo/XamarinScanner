@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "452601619691",
+    "firebase_url": "https://partsly-a18ac.firebaseio.com",
+    "project_id": "partsly-a18ac",
+    "storage_bucket": "partsly-a18ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452601619691:android:9b114ee65f14bc27",
+        "android_client_info": {
+          "package_name": "Partsly.Partsly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452601619691-2987p8ai3fiqklo89dtlf43pebms14en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdTugHzplg-3qLisWlUZwzgoiJ2CQ2mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
